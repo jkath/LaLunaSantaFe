@@ -1,0 +1,146 @@
+body {
+	background-image: url(/images/planks.jpg); background-repeat: repeat;
+	background-color: #000000;
+	color: white;
+}
+
+#blocktext{
+	text-align: justify;
+	margin: 0, 10px, 20px, 10px;
+}
+
+#centering-home-div {
+	position: relative;
+	background-size: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	width: 1000px;
+	height:800px; 
+
+}
+#centering-nonhome-div {
+	background-image: url('/images/leather.jpg');
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	/* border: brown solid 2px; */
+	/* min-height: 800px; */
+	height:80px; 
+}
+#slogan {
+	float: right;
+	padding-top: 10px;
+	padding-right: 10px;
+	font-style:italic;
+	height: 20px;
+}
+
+.menuitem-about {  
+    position: relative;
+    top: 325px;  
+    left: 307px;  
+}
+.menuitem-contact {  
+    position: relative;
+    top: 345px;  
+    left: 330px;  
+}
+.menuitem-archtops {  
+    position: relative;  
+    top: 150px;  
+    left: 168px;  
+}
+.menuitem-flattops {  
+    position: relative;  
+    top: 175px;  
+    left: 190px;  
+}
+.menuitem-semihollow {  
+    position: relative;  
+    top: 200px;  
+    left: 210px;  
+}
+.menuitem-headstock {  
+    position: absolute;  
+    top: 513px;  
+    left: 900px;  
+}
+#homepagecontent {
+	width: 1000px;
+	height: 515px;	
+	background-color: #4F1706;
+}
+
+#homepagesidemenu {
+	float: left;
+	background: url(/images/leather.jpg) repeat;
+	width: 100px;
+	height: 470px;
+	padding-left: 5px;
+	padding-right: 5px;	
+	padding-top: 50px;
+	background-color: #F5F5F5;
+}
+
+#sidemenu {
+	float: left;
+	background: url(/images/leather.jpg) repeat;
+	width: 100px;
+	height: 1700px;
+	padding-left: 5px;
+	padding-right: 5px;	
+	padding-top: 100px;
+	background-color: #F5F5F5;
+}
+
+#pagecontent {
+	float: left;
+	background: url(/images/leather.jpg) repeat;
+	width: 870px;
+	height: 1800px;
+	padding-left: 15px;
+	padding-right: 5px;	
+	background-color: #F5F5F5;
+}
+#shortpagecontent {
+	/* background: url(/images/page_bg.jpg) repeat; */
+	width: 1000px;
+	height: 900px;
+	padding-left: 5px;
+	padding-right: 5px;	
+	color: #556B2F;
+	background-color: #F5F5F5;
+}
+#gallerypagecontent{
+	/* background: url(/images/page_bg.jpg) repeat; */
+	width: 1040px;
+	height: 1300px;
+	padding-left: 5px;
+	padding-right: 5px;	
+	background-color: #4F1706;
+}
+
+#devonshiredescription{
+	text-align: justify;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight:bold;
+}
+a:hover {
+  color: yellow;
+}
+
+#footer {
+   border-top: #FF6347 solid 2px;
+	margin-top: auto;
+	margin-left: auto;
+  	margin-right: auto;
+	background-color: #4F1706;
+	border: brown solid 2px;
+	width: 796px;
+	height: 40px;
+}
